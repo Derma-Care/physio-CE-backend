@@ -1,0 +1,11 @@
+/.metadata/
+# AWS secret files
+bookingservice/src/main/resources/application-secrets.yml
+clinicadmin/src/main/resources/application-secrets.properties
+customerservice/src/main/resources/application-secrets.yml
+physiotherapydoctor-service/src/main/resources/application-secrets.properties
+
+# Firebase service account key
+notification-service/src/main/resources/firebase-key.json
+clinicadmin/src/main/resources/firebase-key.json
+bookingservice/src/main/resources/firebase-key.json
